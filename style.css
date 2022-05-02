@@ -377,9 +377,9 @@ img.alignright,
 	display: block;
 }
 
-.photogrid-item img.featured-image:hover {
+/* .photogrid-item img.featured-image:hover {
 	opacity: 0.2;
-}
+} */
 
 .loop-meta {
 	text-align: center;
