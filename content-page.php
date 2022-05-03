@@ -8,6 +8,7 @@
 				the_post_thumbnail('full');
 			endif;
 		?>
+		<h1>GGGGGGGGGGGGGGGGGGGGGGGGGG</h1>
 		<div class="post-content">
 			<?php the_content(); ?>
 		</div>
